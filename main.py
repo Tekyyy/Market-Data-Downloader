@@ -1,6 +1,6 @@
 """
-NVDA Tick-by-Tick Data Downloader using Alpaca Markets API
-Downloads all historical trades for NVIDIA from 2020 to 2024
+Tick-by-Tick Data Downloader using Alpaca Markets API
+Downloads all historical trades for x company
 and saves them to CSV files split by year.
 
 Requirements:
