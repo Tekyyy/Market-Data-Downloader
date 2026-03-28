@@ -4,7 +4,7 @@ Downloads all historical trades for x company
 and saves them to CSV files split by year.
 
 Requirements:
-    pip install alpaca-trade-api pandas requests
+    pip install pandas requests
 
 Setup:
     1. Sign up at https://alpaca.markets (free paper account)
